@@ -1,5 +1,5 @@
 # Excel
-
+ 
 - 1,048,576 rows by 16,384 columns
 - Select all column **CTRL + SPACE**
 - Select all row **SHIFT + SPACE**
@@ -13,3 +13,5 @@
 - **CTRL + X** to cut
 - **CTRL + 1** format a cell.
 - **ALT + E + S** to paste special
+- To apply find in specific column select that column and press **CTRL + F**.
+
