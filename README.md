@@ -14,4 +14,5 @@
 - **CTRL + 1** format a cell.
 - **ALT + E + S** to paste special
 - To apply find in specific column select that column and press **CTRL + F**.
-
+- **Column(Reference)** type this command and select any specific column and move it u will get the Reference.
+- Use **VLOOKUP** to transfer data from one excel to other with comparison.
