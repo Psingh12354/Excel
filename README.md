@@ -27,3 +27,5 @@
 - To use developer mode right click on the ribon and choose customize ribon and select developer.
 - In developer mode we can start recording and perform repeative task by it like creating column schemas.
 - To create a drop down list we can have data validation which help to choose from drop down menu. Steps go to data and click on data validation choose list or any as per you requirement and also u can enter the value by range or manual by comma split. If u try to enter any other value it gives error to stop go to data validation and stop errors.
+- (Insert-> hyperlink-> Place in the documnet) Through this we can jump from one sheet to another.
+- Freeze colum will be beneficial use this go to (select row below header-> Go to view -> Freze space) and now u can scroll freely without moving the header.
