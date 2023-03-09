@@ -29,3 +29,10 @@
 - To create a drop down list we can have data validation which help to choose from drop down menu. Steps go to data and click on data validation choose list or any as per you requirement and also u can enter the value by range or manual by comma split. If u try to enter any other value it gives error to stop go to data validation and stop errors.
 - (Insert-> hyperlink-> Place in the documnet) Through this we can jump from one sheet to another.
 - Freeze colum will be beneficial use this go to (select row below header-> Go to view -> Freze space) and now u can scroll freely without moving the header.
+- Press **ALT** to open a tab shortcut key.
+- **ALT + A + T** to create a filter.
+- **File -> Options -> Quick access to toolbar** to know more about shortcuts.
+- **Count** to count total number of cell.
+- **Counta** counts non empty cell.
+- **Countif** To count with condition.
+- **Countifs** To count with multiple conditions.
