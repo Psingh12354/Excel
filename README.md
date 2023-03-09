@@ -37,3 +37,14 @@
 - **Countif** To count with condition.
 - **Countifs** To count with multiple conditions.
 - **Sum, Sumif and Sumifs** do the same as count.
+- **Average** and **Averageif** use to find average.
+- **Left**, **Right**, and **Mid** to find element in the selected column it's like slicing.
+- **Upper** and **Lower** it is use to make the selected value in upper case or lower case.
+- **Proper** it is use to make 1st character as capital and rest as small. Ex-: Hello.
+- **&Concatenate** to concatenate multiple column. Ex-: with spaces =B1&" "&C1.
+- **Max** and **Min** to get max and min values in selected.
+- **Round** to do round of number.
+- **VLOOKUP** stands for vertical lookup. Ex-: "=VLOOKUP(H4,B4:F12,2,FALSE)" by adding dollar we can make it flexbile and just copy and paste the commands "=VLOOKUP($H5,B4:F13,3,FALSE)"
+- **HLLOKUP** is same as VLOOKUP only difference is change in direction work horizontally.
+- Index to get value at particular index **=INDEX(B4:C12,5,2)**
+- Match return specific item in array **=MATCH(H4,B4:B12,0)**
