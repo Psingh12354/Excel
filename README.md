@@ -36,3 +36,4 @@
 - **Counta** counts non empty cell.
 - **Countif** To count with condition.
 - **Countifs** To count with multiple conditions.
+- **Sum, Sumif and Sumifs** do the same as count.
