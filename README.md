@@ -50,3 +50,8 @@
 - Match return specific item in array **=MATCH(H4,B4:B12,0)**
 - Use Xlookup because it is more flexible "=XLOOKUP($H5,$B$4:$B$12,C$4:C$12)" and can easily be shift from one col to other with change in values.
 - IFERROR to handle error condition **=IFERROR(F4/$F$13,"na")**.
+- Pivot table help to interact dynamically **Select the columns -> Insert Bar -> Pivot Table**.
+- Choose provide flexibily to choose.
+- Goal **Data -> What if analysis -> Goal**.
+- Data **Data -> What if analysis -> Data**.
+
