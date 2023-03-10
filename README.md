@@ -48,3 +48,4 @@
 - **HLLOKUP** is same as VLOOKUP only difference is change in direction work horizontally.
 - Index to get value at particular index **=INDEX(B4:C12,5,2)**
 - Match return specific item in array **=MATCH(H4,B4:B12,0)**
+- Use Xlookup because it is more flexible "=XLOOKUP($H5,$B$4:$B$12,C$4:C$12)" and can easily be shift from one col to other with change in values.
