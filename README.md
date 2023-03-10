@@ -54,4 +54,5 @@
 - Choose provide flexibily to choose.
 - Goal **Data -> What if analysis -> Goal**.
 - Data **Data -> What if analysis -> Data**.
+- In find in files Notepadd++ we can give *.* to select all and to replace *.txt and then click replace all.
 
