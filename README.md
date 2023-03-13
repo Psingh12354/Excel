@@ -55,4 +55,5 @@
 - Goal **Data -> What if analysis -> Goal**.
 - Data **Data -> What if analysis -> Data**.
 - In find in files Notepadd++ we can give *.* to select all and to replace *.txt and then click replace all.
-
+- **ALT + A + T** to filter.
+- **CTRL + Minus symobl** Can delete the selected row
