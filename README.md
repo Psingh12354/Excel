@@ -57,3 +57,4 @@
 - In find in files Notepadd++ we can give *.* to select all and to replace *.txt and then click replace all.
 - **ALT + A + T** to filter.
 - **CTRL + Minus symobl** Can delete the selected row
+- CTRL + HOME to move in beginning notepad++
