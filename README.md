@@ -1,4 +1,4 @@
-# Excel
+![image](https://github.com/Psingh12354/Excel/assets/55645997/0f1e7557-99a2-40c7-bad2-cff60e7ea8bd)# Excel
  
 - 1,048,576 rows by 16,384 columns
 - Select all column **CTRL + SPACE**
@@ -58,3 +58,16 @@
 - **ALT + A + T** to filter.
 - **CTRL + Minus symobl** Can delete the selected row
 - CTRL + HOME to move in beginning notepad++
+- Extract data from xml or web xml use below query
+```
+#to pass url of xml
+=WEBSERVICE("https://www.w3schools.com/xml/simple.xml")
+#to print all the value in xml in 1 col
+=FILTERXML(A1,"//breakfast_menu//food//*")
+#to print only 1 col values
+=FILTERXML(A1,"//breakfast_menu//food//name")
+#to print the 1st value
+=FILTERXML(A1,"//breakfast_menu//food//name")
+#print in 3 different col
+=CHOOSE({1,2,3},FILTERXML(A1,"//breakfast_menu//food//name"),FILTERXML(A1,"//breakfast_menu//food//price"),FILTERXML(A1,"//breakfast_menu//food//description"))
+```
