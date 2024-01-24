@@ -1,4 +1,4 @@
-![image](https://github.com/Psingh12354/Excel/assets/55645997/0f1e7557-99a2-40c7-bad2-cff60e7ea8bd)# Excel
+# Excel
  
 - 1,048,576 rows by 16,384 columns
 - Select all column **CTRL + SPACE**
