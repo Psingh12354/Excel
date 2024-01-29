@@ -71,3 +71,4 @@
 #print in 3 different col
 =CHOOSE({1,2,3},FILTERXML(A1,"//breakfast_menu//food//name"),FILTERXML(A1,"//breakfast_menu//food//price"),FILTERXML(A1,"//breakfast_menu//food//description"))
 ```
+- Insert -> Table -> Create Table ```=[@Column1]*[@Column2]``` this formula will help to mutliple 2 col value without pointing to individual row
