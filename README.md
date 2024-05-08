@@ -58,6 +58,7 @@
 - **ALT + A + T** to filter.
 - **CTRL + Minus symobl** Can delete the selected row
 - CTRL + HOME to move in beginning notepad++
+- Cummulative Sum for column ```=SUM($C$1:C1)```
 - To remove 1st and last square bracket ```=LEFT(TEXTAFTER(D2,"["),LEN(TEXTAFTER(D2,"["))-1)```
 - Extract data from xml or web xml use below query
 ```
